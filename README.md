@@ -9,14 +9,13 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 * Tu organización GH como teacher
 * Enlaces a los GH profiles de los otros miembros del equipo como alumnos
 
-## Alumno 1
+## Adrián Rodríguez Sacramento
 
 * [GH Classroom]()
 * [Organización de Clase]()
 * [Profesor]()
 * Alumnos en la organización
-  * [Alumno 1]()
-  * [Alumno 2]()
+  * [Jorge Sánchez Tapia]()
 
 ## Alumno 2
 
